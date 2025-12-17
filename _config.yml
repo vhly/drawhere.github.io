@@ -22,8 +22,8 @@ title: DrawHere Dev pages
 email: laozhangdev@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   DrawHere Dev pages. Contract signature solution with HandDraw signatures pannel and high quality Contract documents make.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://drawhere.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "drawhere.github.io" # the subpath of your site, e.g. /blog
+url: "https://vhly.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vhly
 github_username:  vhly
 
